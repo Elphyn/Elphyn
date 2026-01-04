@@ -12,7 +12,7 @@ I work on personal projects in my free time, mostly around systems and tooling.
 
 - JavaScript / Node.js — Electron apps, networking
 - Lua — CC:Tweaked, Neovim, scripting
-- Go - TUI tooling
+- Go - TUI tooling, networking
 - React, Tailwind, HTML/CSS — frontend
 - Python — DSA 
 
