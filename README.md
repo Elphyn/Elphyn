@@ -5,7 +5,7 @@ I work on personal projects in my free time, mostly around systems and tooling.
 
 #### Recent projects
 
-- [LocShare](https://github.com/Elphyn/loc_share_v2) - Fast, decentralized P2P file sharing application.
+- [LocShare](https://github.com/Elphyn/loc_share_v2) - Fast, Decentralized P2P File Sharing Application.
 - [FactoryOS](https://github.com/Elphyn/factory) - Distributed Automation System for CC:Tweaked and Create.
 
 #### Things I work with
