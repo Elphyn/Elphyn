@@ -18,4 +18,4 @@ I work on personal projects in my free time, mostly around systems and tooling.
 
 #### Contact
 
-- [Telegram](https://t.me/hexiwork)
+- [Telegram](https://t.me/hexielphyn)
